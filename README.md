@@ -36,6 +36,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/PravenkumarHub/PravenkumarHub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/PravenkumarHub/PravenkumarHub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
