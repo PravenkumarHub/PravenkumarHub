@@ -25,7 +25,10 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/pravenkumar-thirupathi" target="_blank">
+  <a href="www.linkedin.com/in/
+pravenkumar-thirupathi
+
+" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
